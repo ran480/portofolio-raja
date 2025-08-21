@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images-portofolio/circus-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+}
+#wrapper {
+    margin: 0 auto;
+}
+
+.intro {
+width: 100%;
+max-width: 581px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+}
+
+.orgel {
+width: 100%;
+max-width: 581px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 362px;  
+}
+
+.isi-intro {
+width: 100%;
+max-width: 581px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 145px; 
+}
+
+.hasil-kerja-button {
+text-align: center;
+margin-bottom: 40px;
+margin-top: 160px;  
+}
